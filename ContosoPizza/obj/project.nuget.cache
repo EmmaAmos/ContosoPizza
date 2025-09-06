@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "px3cFx9UjkQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\elove\\Desktop\\Collage\\C#\\ContosoPizza\\ContosoPizza\\ContosoPizza.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\elove\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.8\\microsoft.aspnetcore.openapi.9.0.8.nupkg.sha512",
+    "C:\\Users\\elove\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
