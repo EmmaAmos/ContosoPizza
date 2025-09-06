@@ -27,3 +27,17 @@ Content-Type: application/json
     "name": "Hawaiian",
     "isGlutenFree": false
 }
+
+
+###
+
+GET {{ContosoPizza_HostAddress}}/pizza/3
+Accept: application/json
+
+###
+
+DELETE {{ContosoPizza_HostAddress}}/pizza/3
+
+//Test Delete
+GET {{ContosoPizza_HostAddress}}/pizza/
+Accept: application/json
